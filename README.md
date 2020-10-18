@@ -1,3 +1,3 @@
 # github-pages-remote-theme-test
 
-testing! 1
+testing! 2
