@@ -1,5 +1,5 @@
 remote_theme: AndersDJohnson/andersdjohnson-jekyll-theme
 #remote_theme: benbalter/retlab
 
-# plugins:
-#   - jekyll-github-metadata
+plugins:
+  - jekyll-github-metadata
